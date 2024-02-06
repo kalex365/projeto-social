@@ -23,13 +23,13 @@ main {
 section#telefone {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 40%;
     transform: translate(-50%, -50%);
-    height: 628px;
-    width: 311px;
+    height: 625px;
+    width: 308px;
     background: url(../imagens/frame-iphone.png) no-repeat;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.575);
-    border-radius: 30px;
+    box-shadow: 1px 1px 5px rgb(0, 0, 0);
+    border-radius: 50px;
 }
 iframe#tela {
     position: relative;
